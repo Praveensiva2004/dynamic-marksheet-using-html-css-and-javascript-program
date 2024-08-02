@@ -94,6 +94,26 @@ footer {
     padding:50px;
    
 }
-footer p1{
-    float: right;
+
+.col-md-2 h6{
+    color: brown;
 }
+.col-md-4 h6{
+    color:brown;
+}
+.col-md-1 h6{
+    color:brown;
+}
+.name1 h5{
+    padding-top:8px;
+    
+    
+    color:black;
+}
+.last p{
+    float:inline-start;
+}
+.last .sign{
+    float:inline-end;
+}
+
