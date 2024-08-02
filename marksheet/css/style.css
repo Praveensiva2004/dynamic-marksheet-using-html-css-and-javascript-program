@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    border:solid 1px;
+}
+.col-4 p{
+    float: left;
+    color:brown;
+    margin:2px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding:5px;
+    border:10px;
+    
+    
+}
+.col-4 img{
+    justify-content: center;
+    text-align: center;
+    height: 100px;
+    width:100px;
+}
+
+.container{
+    background-color: blanchedalmond;
+}
+.col-4 .logo img{
+    justify-content: center;
+    text-align: center;
+    padding:4px;
+    height: 150px;
+    width:150px;
+
+}
+.col-4{
+    text-align: center;
+    justify-content: center;
+}
+.col-4 .qrcode{
+    float:inline-end;
+    padding:5px;
+    border:15px;
+}
+.col-12{
+    justify-content: center;
+    text-align: center;
+    
+}
+.col-12 h1{
+    height: 30px;
+    padding:5px;
+    color:brown;
+}
+.col-12 p{
+    padding:1px;
+    border:2px;
+}
+.col-md-6{
+    border: solid 1px;
+}
+.name{
+    padding: 7px;
+    border-collapse: collapse;
+    text-align: center;
+}
+h6{
+    margin-bottom: 6px;
+}
+.col-md-3{
+    border: solid 1px;
+}
+.col-md-2 {
+    border: solid 1px;
+}
+.col-md-4{
+    border: solid 1px;
+}
+.col-md-1{
+    border: solid 1px;
+}
+
+.inner{
+    display: grid;
+    margin-top: 22px;
+    grid-template-columns: 99px 99px 99px;  
+    text-align: center;
+}
+.col-md-12{
+    border: solid 1px;
+}
+
+footer {
+    padding:50px;
+   
+}
+footer p1{
+    float: right;
+}
